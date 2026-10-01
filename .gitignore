@@ -1,0 +1,4 @@
+node_modules/
+-tmp-dict/
+package-lock.json
+lib/sudachi/resources/system.dic
